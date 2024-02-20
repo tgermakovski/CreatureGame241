@@ -1,0 +1,97 @@
+
+<xml version="1.0" encoding="UTF-8">
+
+    <room name="IVORY" state="clean" description="all built of glass and chrome and white plastic. Smells like bougie clorox" east="PINE GREEN" west="GREY">
+        <animal name="Rodger the Rat" description="not THE Rodger the Rat. That doesn't stop him from being very smart but also very stupid"/>
+        <NPC name="Abdi" description="Somali migrant. Devout Muslim. Does not have a birth certificate."/>
+        <PC name="Timofey" description="scared of technology. prefers stairs over elevators. computer science major. go figure"/>
+    </room>
+
+    <room name="PINE GREEN" state="half-dirty" description="smells like pine. Not very spacious but has a high ceiling" north="POOP" west="IVORY">
+        <animal name="Armadillo" description="can roll up into a ball"/>
+        <animal name="Toucan" description="colorful"/>
+        <animal name="Hammerhead" description="hits his head on the nail more than he does the nail on the head"/>
+        <animal name="Phoenix" description="a laconic bird with an appreciation for the Stoics"/>
+        <animal name="Jellyfish" description="pink"/>
+        <NPC name="Fela" description="black Denis"/>
+        <NPC name="Denis" description="white Fela"/>
+        <NPC name="Kyilil" description="Kyilil"/>
+    </room>
+
+    <room name="POOP" state="dirty" description="pig-sty of a room. Elk manure and axolotl piss everywhere. Smell makes you gag." north="SHINEMAN 150" south="PINE GREEN" west="BLACK">
+        <animal name="Pangolin" description="can roll up in a ball"/>
+        <animal name="Elk" description="lives as a fugitive in the woods after being convicted of tax evasion"/>
+        <animal name="Axolotl" description="does crack for health reasons"/>
+        <animal name="Orangutan" description="currently learning ASL"/>
+        <animal name="Pike" description="has a Back-the-Blue Punisher sticker on his car"/>
+        <animal name="Emu" description="once participated in a war against Australia"/>
+        <animal name="Goldfinch" description="yellow"/>
+        <NPC name="Jayson" description="born on 11.9.2001. Makes explosives recreationally. Hard of hearing."/>
+    </room>
+
+    <room name="SHINEMAN 150" state="clean" description="large classroom. has projector and a desk. plastic on the mouse and keyboard makes them had to use." south="POOP" west="RED">
+        <NPC name="Katko" description="not the senator. Kinda creepy. Pastor of a local church. Has an antagonistic disposition towards the Brothers Grimm."/>
+        <NPC name="Beerbelly" description="has a beerbelly. Cares a lot about the environment, native americans, and the covid-19 pandemic. real name is Matt"/>
+        <NPC name="Ptitsa Govorun" description="Has already taken Calc II. Advanced sense of humor. Socially adroit. Respects his elders. real name is Dameon"/>
+        <NPC name="Toddville" description="ship doctor. Dabbles in New Age philosophy. Pear shaped, soft, and balding."/>
+        <NPC name="the Necromancer" description="goth kid. Hasn't learned to express his sense of humor in a socially acceptable way yet"/>
+        <NPC name="Alex" description="''introvert''"/>
+        <NPC name="Sergio" description="Debate Bro and ernest libertarian. Loves his kids. Sometimes like to play little jokes on them. Very passionate about climate change and the scientific method"/>
+        <NPC name="Aleksandar Pantaleev" description="professor at SUNY Oswego. Bulgarian. Likes computers and video games. Doesn't grade for attendance."/>
+    </room>
+
+    <room name="RED" state="dirty" description="blood everywhere. cardboard on the floor and a camera set-up in the corner" east="SHINEMAN 150" west="BLUE">
+        <animal name="Electric Eel" description="drinks coffee. shoots lightning"/>
+        <animal name="Copperhead" description="venomous"/>
+        <animal name="Panda" description="endangered. Has donated over 400 kidneys."/>
+        <animal name="Mongolian Camel" description="lost one hump in a freak encounter with the Taliban"/>
+        <animal name="Dromedary Camel" description="grew a second hump after visiting Pripyat. Has a thing for the Elephant. Even tried to touch his foot once."/>
+        <NPC name="Caesar" description="talking chimpanzee. legally not an animal"/>
+        <NPC name="Socrates" description="old war veteran, husband, philosopher, alleged atheist, corrupter of the youth, and a general pain in the ass. "/>
+        <NPC name="Julius Caesar" description="moderately ambitious"/>
+        <NPC name="Tina" description="workplace lesbian. prefers Destiny over Vaush"/>
+        <NPC name="Sam" description="has one chin and two beards. one out of hair and one out of acne. has a lot to say about music"/>
+    </room>
+
+    <room name="BLUE" state="half-dirty" description="barely passed the inspection, and only because the Alcibiades knew the inspector. Smells like mold" east="RED" south="SHINEMAN 196">
+        <animal name="Kraken" description="make or may not exist. has beef with the whale. likes to troll viking sailors"/>
+        <animal name="Bumblebee" description="can fly"/>
+        <animal name="Humpback Whale" description="can swim"/>
+        <animal name="Mediterranean House Gecko" description="Homeless. Originally from the Indian subcontinent. Can get you 15% off car insurance."/>
+        <animal name="Chameleon" description="trans-racial. not a very authentic personality"/>
+        <animal name="Red Panda" description="red"/>
+        <NPC name="Vladimir the Sad" description="very sad"/>
+        <NPC name="Alcibiades" description="too smart for his own good. mild obsession with herms. extremely bisexual"/>
+        <NPC name="Akhenaten" description="Akhenatenoid in his appearance and mannerisms"/>
+        <NPC name="Diogenes" description="counterfeiter, public urinator, and a very pleasant neighbor all around "/>
+    </room>
+
+    <room name="SHINEMAN 196" state="clean" description="small classroom. blackboard sucks. whiteboard works fine." north="BLUE" south="GREY" east="BLACK">
+        <NPC name="The Bishop of Memphis" description="bible scholar and born-again bond-servant of John Calvin"/>
+        <NPC name="Natrij" description="Not like other girls"/>
+        <animal name="North-Atlantic Lobster" description="an absolute party animal with an appreciation for the Epicureans"/>
+        <NPC name="Sophia" description="legally female, italian, and blond. in actuality, squirrel-like. probably on meth"/>
+        <animal name="Zmej Gorynych" description="Has 3 brain cells total, resulting in an average of 1"/>
+        <animal name="Elephant" description="believes Qanon is real. Thinks AntiFa stormed the Capitol on Jan 6th"/>
+        <NPC name="Christopher Mosbo" description="professor at SUNY Oswego. Not Bulgarian. Swears like a sailor. Doesn't grade for attendance."/>
+    </room>
+
+    <room name="GREY" state="dirty" description="part of a old crumbling khrushevka. rusty radiator by the window. everything is out of concrete. thin walls." north="SHINEMAN 196" east="IVORY">
+        <animal name="Cockroach" description="resides at 129 Marshall Street"/>
+        <animal name="Penguin" description="mediocre plumage. Heavily involved in the Arab slave trade."/>
+        <animal name="Bullfrog with a speech impediment" description="has a speech impediment"/>
+        <animal name="Bullfrog without a speech impediment" description="does not have a speech impediment"/>
+        <animal name="Water Buffalo" description="big and strong. remembers the Khmer Rouge vividly"/>
+        <animal name="Triceratops" description="lizard-like"/>
+        <animal name="Weasel" description="anorexic"/>
+    </room>
+
+    <room name="BLACK" state="half-dirty" description="three-and-a-halfth trapezoid of purgatory. Altitude negative relative to its neighbors. Easier in than out">
+        <NPC name="Jesser" description="he got the drip"/>
+        <animal name="Cloaca" description="middle age beagle. overweight. childless."/>
+        <animal name="Bucephalus" description="просто кабыла" />
+        <NPC name="The Merovingian" description="does not believe in free will. Would probably get along well with the Bishop if they were in the same room." />
+        <Neither_NPC_Or_Animal_But_Rather_A_Trancendent_Being name="Iordan Petrovich" description="Canadian professor of psychology with an appreciation for Aleksandr Solzhenytsen, Carl Jung, and Friedrich Nietschze. Literally can't choose between the spark of divinity in all NPCs and the cleanliness of Animals. Would probably get along well with the Lobster if they were in the same room."/>
+    </room>
+
+</xml>
